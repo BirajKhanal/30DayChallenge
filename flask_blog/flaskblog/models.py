@@ -26,19 +26,3 @@ class Post(db.Model):
 
     def __repr__(self):
         return f"Post ('{self.title}', '{self.date_posted}')"
-
-posts = [
-    {
-        'author': 'Biraj Khanal',
-        'title': 'Blog Post 1',
-        'content': 'First post content',
-        'date_posted': 'April 20, 2018'
-    },
-    {
-        'author': 'jane Doe',
-        'title': 'Blog Post 2',
-        'content': 'Second post content',
-        'date_posted': 'April 20, 2018'
-    }
-]
-
