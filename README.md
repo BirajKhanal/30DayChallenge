@@ -6,3 +6,4 @@
 ### 4th Day - flask_blog pt-1
 ### 5th Day - 3dModeling/blender_practice
 ### 6th Day - flask_blog pt-2
+### 7th Day - flask_blog pt-3
